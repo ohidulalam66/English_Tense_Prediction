@@ -7,6 +7,7 @@ GitHub:
 
 Classroom:
 1.REPORT:0222210005101123_0222210005101132_0222210005101102).pdf
+2.SUBMISSION_CHECKLIST.txt
 
 Drive:
 1.Presentation video
@@ -14,4 +15,4 @@ Drive:
 Docfile:
 1.Project title
 2.Description for video
-3.GitHub Link
+3.GitHub Link (https://github.com/ohidulalam66/English_Tense_Prediction)
