@@ -2,11 +2,11 @@ GitHub:
 
 
 
-1.CODE:0222210005101123_0222210005101132_0222210005101102.ipynb (Python notebook)
+1.CODE_0222210005101123_0222210005101132_0222210005101102.ipynb (Python notebook)
 
 2.English Tense: A Large-scale English texts dataset categorized into three categories (Past,Present, Future)- All_Tense(Prediction)(ZIP file)
 
-3.REPORT:0222210005101123_0222210005101132_0222210005101102.pdf
+3.REPORT_0222210005101123_0222210005101132_0222210005101102.pdf
 
 4.from tensorflow.keras.model (Final weights for best model)
 
